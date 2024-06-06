@@ -1,4 +1,13 @@
-## Hi there 👋
+## G'day Mate
+
+I'm currently working towards my Masters of Computer Science at Queensland University of Technology, returning to the field after a very long time spent away from programming since gradutation.
+I admit that I'm very rusty, but I'm working on refreshing my skills and relearing the new technologies out there.
+
+I've been working adjacent to software development as a localisation manager, and I want to learn more about i18n and its practical applications.
+
+I'm looking to collaborate on anything i18n and AI prompting, I'm particulartly interested in RTL (Right to Left) support in general, and Arabic in particular.
+
+You can reach me on kalnassag@proton.me.
 
 <!--
 **kalnassag/kalnassag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
